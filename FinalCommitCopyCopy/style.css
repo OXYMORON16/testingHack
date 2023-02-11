@@ -1,0 +1,17 @@
+#hi{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+#we{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 4px;
+    text-align: center;
+}
+
+#ok{
+    border: solid 2px red;
+    margin-left: 10px;
+}
